@@ -1,6 +1,4 @@
-# terraform
-Terraform
-
+# Terraform
 Deploys resources for efficency and cost-effectiveness
 
 ### terraform init
